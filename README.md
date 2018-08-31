@@ -12,5 +12,6 @@ $ dep ensure
 
 ```bash
 $ go get github.com/golang/dep
+$ cd $GOPATH/src/github.com/{YOUR_REPOSITORY}/
 $ dep init # Run in project root directory on $GOPATH.
 ```
